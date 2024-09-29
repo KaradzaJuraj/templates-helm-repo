@@ -1,12 +1,12 @@
 apiVersion: v1
 entries:
-  application:
+  helm-repo-demo:
   - apiVersion: v1
-    created: "2024-09-29T18:35:12.878588+02:00"
-    digest: d09770120444003f56c7b4d3cc3b2423b814cccc481d43bcc178baf9ddbd52f5
+    created: "2024-09-29T19:16:47.266895+02:00"
+    digest: 6c109c412377ca9b7251040d7472a2c48531be1d25702091a5ae27377754791d
     icon: https://github.com/cyclops-ui/cyclops/blob/main/cyclops-ui/src/static/img/default-template-icon.png?raw=true
-    name: application
+    name: helm-repo-demo
     urls:
-    - application-0.0.0.tgz
+    - helm-repo-demo-0.0.0.tgz
     version: 0.0.0
-generated: "2024-09-29T18:35:12.878114+02:00"
+generated: "2024-09-29T19:16:47.266379+02:00"
