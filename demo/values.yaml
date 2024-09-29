@@ -1,0 +1,5 @@
+image: nginx
+name: helm-app
+replicas: 5
+service: true
+version: latest
